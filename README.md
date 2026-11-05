@@ -1,18 +1,13 @@
-# Maurocicerchia Tap
+# MauroCicerchia Homebrew Tap
 
-## How do I install these formulae?
+Homebrew formulae maintained by Mauro Cicerchia.
 
-`brew install maurocicerchia/tap/<formula>`
+## macchiato
 
-Or `brew tap maurocicerchia/tap` and then `brew install <formula>`.
+After the first release, install [macchiato](https://github.com/MauroCicerchia/macchiato) with:
 
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "maurocicerchia/tap"
-brew "<formula>"
+```sh
+brew install maurocicerchia/tap/macchiato
 ```
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+Update or remove it with `brew upgrade macchiato` or `brew uninstall macchiato`. The formula runs on macOS and installs the `macchiato` shell command.
