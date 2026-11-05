@@ -2,7 +2,7 @@ class Macchiato < Formula
   desc "Animate a coffee cup while caffeinate keeps your Mac awake"
   homepage "https://github.com/MauroCicerchia/macchiato"
   url "https://github.com/MauroCicerchia/macchiato/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "d4c00fcea2ca873f03f95891cc8a86271fd037e55298abbacea31561d3f38c51"
   license "MIT"
   head "https://github.com/MauroCicerchia/macchiato.git", branch: "main"
 
